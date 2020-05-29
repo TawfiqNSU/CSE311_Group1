@@ -69,10 +69,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Keyboards Available Now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Keyboards/corsairk95.PNG" height="260px"></a>
+					<a href="Keyboards/CorsairK95.php"><img src="../images/Keyboards/corsairk95.PNG" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Keyboards/CorsairK95.php">
 							Corsair K95 RGB Platinum Mechanica
 							</a>
 						</p>
@@ -87,11 +87,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Keyboards/APEX.jpg" height="260px"></a>
+					<a href="Keyboards/SteelSeriesApex.php"><img src="../images/Keyboards/APEX.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Keyboards/SteelSeriesApex.php">
 									SteelSeries APEX 7
 									</a>
 								</p>
@@ -107,11 +107,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Keyboards/Corsair-S.jpg"  height="260px"></a>
+					<a href="Keyboards/CorsairStrafe.php"><img src="../images/Keyboards/Corsair-S.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Keyboards/CorsairStrafe.php">
 								Corsair Strafe RGB Mechanical
 								</a>
 							</p>
@@ -127,11 +127,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/razerCC.jpg"  height="260px"></a>
+				<a href="Keyboards/RazerCynosa.php"><img src="../images/Keyboards/razerCC.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Keyboards/RazerCynosa.php">
 							Razer Cynosa Chroma RGB Membrane Gaming Keyboard
 							</a>
 							</p>
@@ -147,11 +147,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/razerH.jpg"  height="260px"></a>
+				<a href="Keyboards/RazerHuntsman.php"><img src="../images/Keyboards/razerH.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Keyboards/RazerHuntsman.php">
 							Razer Huntsman Opto-Mechanical Switch Keyboard
 							</a>
 							</p>
@@ -167,11 +167,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/razerO.png"  height="260px"></a>
+				<a href="Keyboards/RazerOrnata.php"><img src="../images/Keyboards/razerO.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Keyboards/RazerOrnata.php">
 							Razer Ornata Chroma Multi Color Membrane Gaming Keyboard
 							</a>
 							</p>
@@ -187,12 +187,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/rapoo-vpro-v805 5000.png" height="260px"></a>
+				<a href="Keyboards/RapooV805.php"><img src="../images/Keyboards/rapoo-vpro-v805 5000.png" height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
-							rapoo-vpro-v805
+							<a href="Keyboards/RapooV805.php">
+							Rapoo VPRO V805 Cherry MX Wired Black Backlit Mechanical Gaming Keyboard
 							</a>
 							</p>
 					</div>
@@ -205,34 +205,15 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 			</div>
 		</div>
 		<br><br><br>
+		
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/steelseries-apex-7-10000.jpg"  height="260px"></a>
+				<a href="Keyboards/LogitechG613.php"><img src="../images/Keyboards/logitechg613.jpeg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
-							steelseries-apex-7
-							</a>
-							</p>
-					</div>
-					<p>
-						Price:10,000 Tk
-						<button type="button" onclick="alert('Works')">Add to Cart</button>
-					</p>
-
-				</div>
-			</div>
-		</div>
-		<br><br><br>
-		<div class="productList">
-			<div class="product">
-				<a href="#"><img src="../images/Keyboards/nlogitech-g213 5500.jpg"  height="260px"></a>
-				<div class="info">
-					<div class="proName">
-						<p>
-							<a href="#playstation4">
-							logitech-g213
+							<a href="Keyboards/LogitechG613.php">
+							Logitech-g613
 							</a>
 							</p>
 					</div>
@@ -245,33 +226,14 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 			</div>
 		</div>
 		<br><br><br>
-		<div class="productList">
-			<div class="product">
-				<a href="#"><img src="../images/Keyboards/nlogitech-g213 9900.jpg"  height="260px"></a>
-				<div class="info">
-					<div class="proName">
-						<p>
-							<a href="#playstation4">
-							nlogitech-g213
-							</a>
-							</p>
-					</div>
-					<p>
-						Price:9,900 Tk
-						<button type="button" onclick="alert('Works')">Add to Cart</button>
-					</p>
 
-				</div>
-			</div>
-		</div>
-		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Keyboards/Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard, Blue Switches.jpg"  height="260px"></a>
+				<a href="Keyboards/RedDragon.php"><img src="../images/Keyboards/Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard, Blue Switches.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Keyboards/RedDragon.php">
 							Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard, Blue Switches
 							</a>
 							</p>

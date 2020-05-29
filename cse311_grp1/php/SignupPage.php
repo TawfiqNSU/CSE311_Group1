@@ -68,6 +68,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
        		$email=trim($_POST["email"]);
        	}
 
+        //Insert to Database
        	if(empty($username_err) && empty($password_err) && empty($full_name_err) && empty($email_err)){
        		$sql= "INSERT INTO login(username,password,full_name,email) VALUES (?,?,?,?)";
        	

@@ -69,10 +69,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Mouse Available Now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Mouse/razer-viper-ultimate-12600.jpg" height="260px"></a>
+					<a href="Mice/RazerViper.php"><img src="../images/Mouse/razer-viper-ultimate-12600.jpg" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Mice/RazerViper.php">
 							razer-viper-ultimate
 							</a>
 						</p>
@@ -87,11 +87,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Mouse/Razer Naga Trinity-8415.jpg" height="260px"></a>
+					<a href="Mice/RazerNaga.php"><img src="../images/Mouse/Razer Naga Trinity-8415.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Mice/RazerNaga.php">
 									Razer Naga Trinity
 									</a>
 								</p>
@@ -107,11 +107,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Mouse/Razer Deathadder Elite 5865.jpg"  height="260px"></a>
+					<a href="Mice/RazerDeathAdder.php"><img src="../images/Mouse/Razer Deathadder Elite 5865.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Mice/RazerDeathAdder.php">
 								Razer Deathadder Elite
 								</a>
 							</p>
@@ -127,12 +127,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Mouse/logitech-g502-12650.jpg"  height="260px"></a>
+				<a href="Mice/LogitechG502.php"><img src="../images/Mouse/logitech-g502-12650.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
-							logitech-g502
+							<a href="Mice/LogitechG502.php">
+							logitech-G502
 							</a>
 							</p>
 					</div>
@@ -147,11 +147,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Mouse/Logitech G203 Prodigy 3315.jpg"  height="260px"></a>
+				<a href="Mice/LogitechG203.php"><img src="../images/Mouse/Logitech G203 Prodigy 3315.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Mice/LogitechG203.php">
 							Logitech G203 Prodigy
 							</a>
 							</p>
@@ -167,11 +167,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Mouse/Corsair Ironclaw RGB 4900.JPG"  height="260px"></a>
+				<a href="Mice/CorsairIronClaw.php"><img src="../images/Mouse/Corsair Ironclaw RGB 4900.JPG"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Mice/CorsairIronClaw.php">
 							Corsair Ironclaw RGB
 							</a>
 							</p>

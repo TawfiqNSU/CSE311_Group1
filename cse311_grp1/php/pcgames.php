@@ -70,10 +70,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Pc Games available now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Games/doom.jpg" height="260px"></a>
+					<a href="Games/PC/Doom.php"><img src="../images/Games/doom.jpg" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PC/Doom.php">
 							Doom Eternal
 							</a>
 						</p>
@@ -88,11 +88,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Games/ghost.jpg" height="260px"></a>
+					<a href="Games/PC/GhostRecon.php"><img src="../images/Games/ghost.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Games/PC/GhostRecon.php">
 									Ghost recon breakpoint
 									</a>
 								</p>
@@ -108,11 +108,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Games/gtav.jpg"  height="260px"></a>
+					<a href="Games/PC/GTAV.php"><img src="../images/Games/gtav.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Games/PC/GTAV.php">
 								Grand Theft Auto 5
 								</a>
 							</p>
@@ -128,11 +128,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/reddead.jpg"  height="260px"></a>
+				<a href="Games/PC/RDR2.php"><img src="../images/Games/reddead.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PC/RDR2.php">
 							Red Dead Redemption 2
 							</a>
 							</p>
@@ -148,11 +148,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/resident.jpeg"  height="260px"></a>
+				<a href="Games/PC/ResidentEvil.php"><img src="../images/Games/resident.jpeg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PC/ResidentEvil.php">
 							Resident Evil 2 Remake
 							</a>
 							</p>
@@ -168,12 +168,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/witcher.jpg"  height="260px"></a>
+				<a href="Games/PC/TheWitcher.php"><img src="../images/Games/witcher.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
-							Witcher 3
+							<a href="Games/PC/TheWitcher.php">
+							The Witcher 3
 							</a>
 							</p>
 					</div>

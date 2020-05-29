@@ -70,10 +70,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>PS4 Controllers Available Now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Controllers/DS4Black.jpg" height="260px"></a>
+					<a href="Controllers/DS4Black.php"><img src="../images/Controllers/DS4Black.jpg" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/DS4Black.php">
 							DualShock 4 Black
 							</a>
 						</p>
@@ -88,11 +88,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Controllers/DS4Gold.jpg" height="260px"></a>
+					<a href="Controllers/ds4gold.php"><img src="../images/Controllers/DS4Gold.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Controllers/ds4gold.php">
 									DualShock4 Gold
 									</a>
 								</p>
@@ -108,11 +108,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Controllers/DS4GreenCamo.jpg"  height="260px"></a>
+					<a href="Controllers/ds4GreenCamo.php"><img src="../images/Controllers/DS4GreenCamo.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Controllers/ds4GreenCamo.php">
 								DualShock4 Green Camoflauge
 								</a>
 							</p>
@@ -128,11 +128,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4MagmaRed.png"  height="260px"></a>
+				<a href="Controllers/ds4red.php"><img src="../images/Controllers/DS4MagmaRed.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4red.php">
 							DualShock4 Magma Red
 							</a>
 							</p>
@@ -148,11 +148,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4MidBlue.jpg"  height="260px"></a>
+				<a href="Controllers/DS4Blue.php"><img src="../images/Controllers/DS4MidBlue.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/DS4Blue.php">
 							DualShock4 Midnight Blue
 							</a>
 							</p>
@@ -168,11 +168,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4RedCamo.png"  height="260px"></a>
+				<a href="Controllers/ds4RedCamo.php"><img src="../images/Controllers/DS4RedCamo.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4RedCamo.php">
 							DualShock4 Red Camoflauge
 							</a>
 							</p>
@@ -188,11 +188,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4Purple.png" height="260px"></a>
+				<a href="Controllers/ds4purple.php"><img src="../images/Controllers/DS4Purple.png" height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4purple.php">
 							DualShock4 Purple
 							</a>
 							</p>
@@ -208,11 +208,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4RoseGold.png"  height="260px"></a>
+				<a href="Controllers/ds4rosegold.php"><img src="../images/Controllers/DS4RoseGold.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4rosegold.php">
 							DualShock4 Rose Gold
 							</a>
 							</p>
@@ -228,11 +228,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4SteelBlack.png"  height="260px"></a>
+				<a href="Controllers/ds4metal.php"><img src="../images/Controllers/DS4SteelBlack.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4metal.php">
 							DualShock4 Steel Black
 							</a>
 							</p>
@@ -248,11 +248,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4TitanBlue.png"  height="260px"></a>
+				<a href="Controllers/ds4titanium.php"><img src="../images/Controllers/DS4TitanBlue.png"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4titanium.php">
 							DualShock4 Titanium Blue
 							</a>
 							</p>
@@ -268,11 +268,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Controllers/DS4White.jpg"  height="260px"></a>
+				<a href="Controllers/ds4white.php"><img src="../images/Controllers/DS4White.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4white.php">
 							DualShock4 Glacier White
 							</a>
 							</p>

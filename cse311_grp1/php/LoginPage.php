@@ -10,7 +10,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
  
 
 require_once "config.php";
- 
+
 
 $username = $password = "";
 $username_err = $password_err = "";
@@ -34,17 +34,17 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     if(empty($username_err) && empty($password_err)){
     
         $sql = "SELECT id, username, password FROM login WHERE username = ?";
-        
+         
         if($stmt = mysqli_prepare($link, $sql)){
-     
+        // Bind variables to the prepared statement as parameters
             mysqli_stmt_bind_param($stmt, "s", $param_username);
             
            
             $param_username = $username;
             
-            
+            // Attempt to execute the prepared statement
             if(mysqli_stmt_execute($stmt)){
-              
+              /* store result */
                 mysqli_stmt_store_result($stmt);
                 
                 

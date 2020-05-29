@@ -70,12 +70,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				Popular Games Right Now
 			</h2>
 			<div class="covers">
-				<a href="#">
+					<a href="Games/PS/Doom.php">
 					<img src="../images/Games/DoomEternal.jpg">
 				</a>
 				<div class="info">
 					<p>
-						<a href="#playstation4">
+							<a href="Games/PS/Doom.php">
 						Doom Eternal
 						</a>
 					</p>
@@ -87,12 +87,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				</div>
 			</div>
 			<div class="covers">
-				<a href="#">
+				<a href="Games/PC/GTAV.php">
 					<img src="../images/Games/GTAV.jpeg">
 				</a>
 				<div class="info">
 					<p>
-						<a href="#playstation4">
+						<a href="Games/PC/GTAV.php">
 						Grand Theft Auto V
 						</a>
 					</p>
@@ -104,12 +104,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				</div>
 			</div>
 			<div class="covers">
-				<a href="#">
+				<a href="Games/XBOX/RDR2.php">
 					<img src="../images/Games/RDR2.jpg">
 				</a>
 				<div class="info">
 					<p>
-						<a href="#playstation4">
+						<a href="Games/XBOX/RDR2.php">
 						Red Dead Redemption 2
 						</a>
 					</p>
@@ -127,51 +127,51 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 					Top Selling Consoles
 				</h2>
 				<div class="covers">
-					<a href="#">
+					<a href="Consoles/PlayStation/PS4Pro.php">
 						<img src="../images/Playstation/PS4PRO.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/PlayStation/PS4Pro.php">
 							PlayStation 4 Pro
 							</a>
 						</p>
 						<p>
-							Price:33,915 Tk
+							Price:33,500 Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+					<a href="Consoles/Xbox/Xbox1s.php">
 						<img src="../images/Xbox/Xbox1s.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/Xbox/Xbox1s.php">
 							Xbox One S
 							</a>
 						</p>
 						<p>
-							Price:25,415 Tk
+							Price:26,000 Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+					<a href="Consoles/PlayStation/PS4Slim1.php">
 						<img src="../images/Playstation/PS4Slim.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/PlayStation/PS4Slim1.php">
 							PlayStation 4 Slim
 							</a>
 						</p>
 						<p>
-							Price:25,415 Tk
+							Price:26,000 Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 					</div>
@@ -183,51 +183,51 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 					Latest Monitors Available
 				</h2>
 				<div class="covers">
-					<a href="#">
+					<a href="Monitors/HPMonitor1.php">
 						<img src="../images/Monitors/HPZ27.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/HPMonitor1.php">
 							HP Z27 27Inch 4k Monitor
 							</a>
 						</p>
 						<p>
-							Price:45,815 Tk 
+							Price:74,500 Tk 
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+					<a href="Monitors/AlienwareMonitor.php">
 						<img src="../images/Monitors/Alienware55.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/AlienwareMonitor.php">
 							Alienware 55 inch OLED Monitor
 							</a>
 						</p>
 						<p>
-							Price:2,58,315 Tk 
+							Price:2,58,300 Tk 
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+				<a href="Monitor/SamsungMonitor.php">
 						<img src="../images/Monitors/	SamsC27.jpg">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitor/SamsungMonitor.php">
 							Samsung CHG70 32 Inch Monitor
 							</a>
 						</p>
 						<p>
-							Price:25,415 Tk 
+							Price: 42,000Tk 
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 					</div>
@@ -239,12 +239,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 					PS4 Controller Skins
 				</h2>
 				<div class="covers">
-					<a href="#">
+					<a href="Controllers/ds4purple.php">
 						<img src="../images/Controllers/DS4purple.png">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4purple.php">
 							DualShock4 Electric Purple
 							</a>
 						</p>
@@ -256,12 +256,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+					<a href="Controllers/ds4RedCamo.php">
 						<img src="../images/Controllers/DS4RedCamo.png">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+								<a href="Controllers/ds4RedCamo.php">
 							DualShock4 Red Camoflauge
 							</a>
 						</p>
@@ -273,12 +273,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 					</div>
 				</div>
 				<div class="covers">
-					<a href="#">
+						<a href="Controllers/ds4rosegold.php">
 						<img src="../images/Controllers/DS4RoseGold.png">
 					</a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Controllers/ds4rosegold.php">
 							DualShock4 Rose Gold
 							</a>
 						</p>

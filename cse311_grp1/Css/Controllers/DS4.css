@@ -197,14 +197,29 @@ background-color: #393939;
 .description h2{
   font-family: Arial;
   color: white;
-  padding: 40px;
+  padding: 30px;
+  margin-bottom: -15px;
 }
-table{
-  border: 2px solid gray;
-  margin-left: 40px;
-  padding: 5px;
-}
-td{
+table {
+  margin: auto;
   font-family: Arial;
-  color: white
+  border-collapse: collapse;
+  width: 70%;
 }
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  font-size: 18px;
+  color: white;
+}
+th{
+
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+  font-size: 20px;
+  color: white;
+}
+

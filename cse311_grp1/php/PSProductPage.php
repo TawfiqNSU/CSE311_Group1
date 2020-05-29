@@ -12,7 +12,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <head>
 	<title>PlayStaions</title>
 	<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico" />
-	<link rel="stylesheet" type="text/css" href="../Css/PsProduct.css">
+	<link rel="stylesheet" type="text/css" href="../Css/ps4games.css">
 </head>
 <body>
 	<div class="mainBody">	
@@ -69,15 +69,15 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>PlayStations Available Now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Playstation/PS4.jpg" width="250px" height="260px"></a>
+					<a href="Consoles/PlayStation/PS4Slim1.php"><img src="../images/Playstation/PS4Slim.jpg" width="250px" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
-							PlayStation 4
+							<a href="Consoles/PlayStation/PS4Slim1.php">
+							Play Station 4 Slim 8Gb RAM / 500GB HDD
 							</a>
 						</p>
 						<p>
-							Price:24,500 Tk
+							Price:26,000 Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
@@ -87,17 +87,17 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Playstation/PS4PRO.jpg" width="250px" height="260px"></a>
+					<a href="Consoles/PlayStation/PS4Slim2.php"><img src="../images/Playstation/PS4Slim.jpg" width="250px" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
-									PlayStation 4 Pro
+									<a href="Consoles/PlayStation/PS4Slim2.php">
+									Play Station 4 Slim 8Gb RAM / 1TB HDD
 									</a>
 								</p>
 							</div>	
 						<p>
-							Price:33,915 Tk
+							Price:27,000 Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 
@@ -107,17 +107,17 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Playstation/PS4Slim.jpg" width="250px" height="260px"></a>
+					<a href="Consoles/PlayStation/PS4PRO.php"><img src="../images/Playstation/PS4PRO.jpg" width="250px" height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
-								PlayStation 4 Slim
+								<a href="Consoles/PlayStation/PS4PRO.php">
+								Play Station 4 Pro 8Gb RAM / 1TB HDD
 								</a>
 							</p>
 						</div>
 						<p>
-							Price:33,915 Tk
+							Price:33,500Tk
 							<button type="button" onclick="alert('Works')">Add to Cart</button>
 						</p>
 

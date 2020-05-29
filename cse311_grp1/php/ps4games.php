@@ -69,10 +69,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Ps4 Games available now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Games/DoomEternal.jpg" height="260px"></a>
+					<a href="Games/PS/Doom.php"><img src="../images/Games/DoomEternal.jpg" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PS/Doom.php">
 							Doom Eternal
 							</a>
 						</p>
@@ -87,11 +87,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Games/dragon.jpg" height="260px"></a>
+					<a href="Games/PS/DBZ.php"><img src="../images/Games/dragon.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Games/PS/DBZ.php">
 									Dragon Ball Z: Kakarot
 									</a>
 								</p>
@@ -107,11 +107,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Games/god.png"  height="260px"></a>
+					<a href="Games/PS/GOW.php"><img src="../images/Games/god.png"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Games/PS/GOW.php">
 								God of War
 								</a>
 							</p>
@@ -127,11 +127,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/nioh.jpg"  height="260px"></a>
+				<a href="Games/PS/Nioh2.php"><img src="../images/Games/nioh.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PS/Nioh2.php">
 							Nioh 2
 							</a>
 							</p>
@@ -147,11 +147,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/paper.jpg"  height="260px"></a>
+				<a href="Games/PS/PaperBeast.php"><img src="../images/Games/paper.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PS/PaperBeast.php">
 							Paper Beast
 							</a>
 							</p>
@@ -167,11 +167,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Games/cod.jpg"  height="260px"></a>
+				<a href="Games/PS/Cod.php"><img src="../images/Games/cod.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Games/PS/Cod.php">
 							Call of Duty Mordern Warfare 2 Remastered
 							</a>
 							</p>

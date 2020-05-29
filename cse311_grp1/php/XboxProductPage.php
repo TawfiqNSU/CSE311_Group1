@@ -69,10 +69,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Xbox available now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/xbox/Xbox1x.png" height="260px"></a>
+					<a href="Consoles/Xbox/Xbox1x.php"><img src="../images/xbox/Xbox1x.png" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/Xbox/Xbox1x.php">
 							Xbox One X
 							</a>
 						</p>
@@ -87,11 +87,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Xbox/XboxStarWars.jpg" height="260px"></a>
+					<a href="Consoles/Xbox/Xbox1xStarWars.php"><img src="../images/Xbox/XboxStarWars.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
+									<a href="Consoles/Xbox/Xbox1xStarWars.php">
 									Xbox One X Star Wars Jedi Fallen Order Edition
 									</a>
 								</p>
@@ -107,11 +107,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Xbox/XboxGears5.jpg"  height="260px"></a>
+					<a href="Consoles/Xbox/Xbox1xGears5.php"><img src="../images/Xbox/XboxGears5.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Consoles/Xbox/Xbox1xGears5.php">
 								Xbox One X Gears 5 Limited Edition
 								</a>
 							</p>
@@ -127,11 +127,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Xbox/XboxOneS.jpg"  height="260px"></a>
+				<a href="Consoles/Xbox/Xbox1s.php"><img src="../images/Xbox/XboxOneS.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/Xbox/Xbox1s.php">
 							Xbox One S
 							</a>
 							</p>
@@ -147,11 +147,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Xbox/Xbox1sStarWars.jpg"  height="260px"></a>
+				<a href="Consoles/Xbox/Xbox1sStarWars.php"><img src="../images/Xbox/Xbox1sStarWars.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/Xbox/Xbox1sStarWars.php">
 							Xbox One S Star Wars: Jedi Fallen Order Edition
 							</a>
 							</p>
@@ -167,11 +167,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Xbox/Xbox1sGears5.jpg"  height="260px"></a>
+				<a href="Consoles/Xbox/Xbox1sGears5.php"><img src="../images/Xbox/Xbox1sGears5.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Consoles/Xbox/Xbox1sGears5.php">
 							Xbox One S Gears 5 Edition
 							</a>
 							</p>

@@ -69,11 +69,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 				<p>Monitor Available Now</p>
 			</div>
 			<div class="product">
-					<a href="#"><img src="../images/Monitors/32 CHG70 Gaming Monitor with Quantum Dot 42000.jpg" height="260px"></a>
+					<a href="Monitors/SamsungMonitor.php"><img src="../images/Monitors/32 CHG70 Gaming Monitor with Quantum Dot 42000.jpg" height="260px"></a>
 					<div class="info">
 						<p>
-							<a href="#playstation4">
-							32 CHG70 Gaming Monitor with Quantum Dot 
+							<a href="Monitors/SamsungMonitor.php">
+							Samsung 32 CHG70 Gaming Monitor
 							</a>
 						</p>
 						<p>
@@ -87,12 +87,12 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Monitors/27 SR75 WQHD LED Space Monitor 23000.jpg" height="260px"></a>
+					<a href="Monitors/Samsung27.php"><img src="../images/Monitors/27 SR75 WQHD LED Space Monitor 23000.jpg" height="260px"></a>
 					<div class="info">
 							<div class="proName">
 								<p>
-									<a href="#playstation4">
-									27 SR75 WQHD LED Space Monitor 
+									<a href="Monitors/Samsung27.php">
+									Samsung 27 SR75 WQHD LED Space Monitor
 									</a>
 								</p>
 							</div>	
@@ -107,11 +107,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 				<div class="product">
-					<a href="#"><img src="../images/Monitors/HP Z27 27-inch 4K UHD Display 45800.jpg"  height="260px"></a>
+					<a href="Monitors/HPMonitor1.php"><img src="../images/Monitors/HP Z27 27-inch 4K UHD Display 45800.jpg"  height="260px"></a>
 					<div class="info">
 						<div class="proName">
 							<p>
-								<a href="#playstation4">
+								<a href="Monitors/HPMonitor1.php">
 								HP Z27 27-inch 4K UHD Display
 								</a>
 							</p>
@@ -127,11 +127,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Monitors/HP P244 23.8-inch Monitor 12600.jpg"  height="260px"></a>
+				<a href="Monitors/HPMonitor2.php"><img src="../images/Monitors/HP P244 23.8-inch Monitor 12600.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/HPMonitor2.php">
 							HP P244 23.8-inch Monitor
 							</a>
 							</p>
@@ -147,11 +147,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Monitors/HP EliteDisplay E243 23.8-inch Monitor 15215.jpg"  height="260px"></a>
+				<a href="Monitors/HPMonitor3.php"><img src="../images/Monitors/HP EliteDisplay E243 23.8-inch Monitor 15215.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/HPMonitor3.php">
 								HP EliteDisplay E243 23.8-inch Monitor
 							</a>
 							</p>
@@ -167,11 +167,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Monitors/Alien ware 55 inch 258315.jpg"  height="260px"></a>
+				<a href="Monitors/AlienwareMonitor.php"><img src="../images/Monitors/Alien ware 55 inch 258315.jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/AlienwareMonitor.php">
 							Alienware 55 inch OLED Monitor
 							</a>
 							</p>
@@ -187,11 +187,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Monitors/dell monitor 22 inch 17000.jpg" height="260px"></a>
+				<a href="Monitors/DellMonitor.php"><img src="../images/Monitors/dell monitor 22 inch 17000.jpg" height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/DellMonitor.php">
 							Dell monitor 22 inch
 							</a>
 							</p>
@@ -207,11 +207,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 		<br><br><br>
 		<div class="productList">
 			<div class="product">
-				<a href="#"><img src="../images/Monitors/Dell monitor 20 inch 13000 .jpg"  height="260px"></a>
+				<a href="Monitors/DellMonitor2.php"><img src="../images/Monitors/Dell monitor 20 inch 13000 .jpg"  height="260px"></a>
 				<div class="info">
 					<div class="proName">
 						<p>
-							<a href="#playstation4">
+							<a href="Monitors/DellMonitor2.php">
 							Dell monitor 20 inch
 							</a>
 							</p>
